@@ -1,0 +1,89 @@
+header, footer {
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+
+
+footer{
+    padding: 10px;
+    border-radius: 3px;
+
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    background: darkblue;
+    
+    
+    
+
+}
+
+a {
+    columns: darkblue;
+}
+
+html, body {
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+}
+#main {
+    
+    color: greenyellow;
+    margin: 20px 0px 20px 0px;
+    padding: 5px;
+
+}
+.container {
+    width: 989px;
+    margin: 0 auto;
+    font-size: 40px;
+    
+    padding: 5px;
+}
+
+header nav {
+    float: right;
+    margin-right: 5px;
+    
+}
+
+header nav li{
+    display: inline;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(banner-coronavirus.png);
+    background-size: cover ;
+    background-attachment: fixed;
+    background-position: center;
+}
+h2 {
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.box { display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+body, .form-all{
+
+    background:none !important;
+    
+    }
+
+    
+   
